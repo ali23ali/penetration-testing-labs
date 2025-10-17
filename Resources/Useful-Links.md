@@ -1,0 +1,2 @@
+- https://portswigger.net/
+- https://owasp.org/
