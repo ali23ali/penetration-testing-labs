@@ -11,7 +11,7 @@ This repository contains organized labs, scripts, notes, and tools for web & net
 - `Resources/` - Wordlists, tools list, and useful links.
 
 ## How to use
-1. Clone the repo: `git clone https://github.com/<your-username>/penetration-testing-labs.git`
+1. Clone the repo: `git clone https://github.com/<ali23ali>/penetration-testing-labs.git`
 2. Explore folders and READMEs for each area.
 3. Add your scripts and writeups, keep commits focused and atomic.
 
